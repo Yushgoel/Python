@@ -1,0 +1,5 @@
+print max(123, 987, 654, 456)
+print min(123, -234, 45)
+print abs(-2234)
+print type("Awesome")
+print type(234)
